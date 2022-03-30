@@ -6,11 +6,14 @@ This project consisted of 2 phases, the first phase was all in Tableau. Graphs a
 
 ## Results
 The newly created datetime ride duration field was used to create the following graphic showing trip duration and number of rides:
+
 <img width="442" alt="checkoutTimeUsers" src="https://user-images.githubusercontent.com/95047485/160747647-5d3ee6c5-de29-46f1-98b3-28f798ffec5c.PNG">
 
 This shows the most frequent ride duration in hours and minutes.
 
 Next, it would be important to show the gender breakdown of the riders, so this next graphic was created by adding gender as a filter in the checkout times graphic.
+
+
 <img width="440" alt="checkoutTimeGenders" src="https://user-images.githubusercontent.com/95047485/160747869-f322d767-ced6-4988-a5a9-b3d24b0012bb.PNG">
 
 
@@ -18,4 +21,4 @@ The results give an excellent view into the types of users, see story for subscr
 
 Please visit the following link for interactive charts in the NYC Citibike data story:
 
-[link to tableau story](https://public.tableau.com/app/profile/kim.collins3319/viz/BikeShare_16478156580320/NYCCitybike?publish=yes)
+[Link to Tableau Story](https://public.tableau.com/app/profile/kim.collins3319/viz/BikeShare_16478156580320/NYCCitybike?publish=yes)
